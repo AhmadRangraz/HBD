@@ -869,3 +869,8 @@ p {
   font-size: 3.8em;
   line-height: 2em;
 }
+
+
+body{
+overflow:hidden;
+}
